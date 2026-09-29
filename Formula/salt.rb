@@ -1,8 +1,8 @@
 class Salt < Formula
   desc "Encrypts AI agent memory backups before they reach Git"
   homepage "https://github.com/spicy-lemonade/salt"
-  url "https://github.com/spicy-lemonade/salt/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "05f9d4f7125fa4f8a708469b49726415509660861677275be08c2504edfe7f29"
+  url "https://github.com/spicy-lemonade/salt/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "10e3ca07b462fc6c11265d9f585f788e2e06aadcc4e758fc55fb467f125a80eb"
   license "MIT"
 
   depends_on "go" => :build
